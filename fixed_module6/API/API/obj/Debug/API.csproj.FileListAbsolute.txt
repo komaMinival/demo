@@ -1,0 +1,10 @@
+C:\Users\pupochek128\Desktop\komademo\fixed_module6\API\API\bin\Debug\API.exe.config
+C:\Users\pupochek128\Desktop\komademo\fixed_module6\API\API\bin\Debug\API.exe
+C:\Users\pupochek128\Desktop\komademo\fixed_module6\API\API\bin\Debug\API.pdb
+C:\Users\pupochek128\Desktop\komademo\fixed_module6\API\API\obj\Debug\API.csproj.AssemblyReference.cache
+C:\Users\pupochek128\Desktop\komademo\fixed_module6\API\API\obj\Debug\API.API.resources
+C:\Users\pupochek128\Desktop\komademo\fixed_module6\API\API\obj\Debug\API.Properties.Resources.resources
+C:\Users\pupochek128\Desktop\komademo\fixed_module6\API\API\obj\Debug\API.csproj.GenerateResource.cache
+C:\Users\pupochek128\Desktop\komademo\fixed_module6\API\API\obj\Debug\API.csproj.CoreCompileInputs.cache
+C:\Users\pupochek128\Desktop\komademo\fixed_module6\API\API\obj\Debug\API.exe
+C:\Users\pupochek128\Desktop\komademo\fixed_module6\API\API\obj\Debug\API.pdb

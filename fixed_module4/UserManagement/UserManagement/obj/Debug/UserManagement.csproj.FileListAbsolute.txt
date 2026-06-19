@@ -1,0 +1,13 @@
+C:\Users\pupochek128\Desktop\komademo\fixed_module4\UserManagement\UserManagement\bin\Debug\App.config
+C:\Users\pupochek128\Desktop\komademo\fixed_module4\UserManagement\UserManagement\bin\Debug\UserManagement.exe.config
+C:\Users\pupochek128\Desktop\komademo\fixed_module4\UserManagement\UserManagement\bin\Debug\UserManagement.exe
+C:\Users\pupochek128\Desktop\komademo\fixed_module4\UserManagement\UserManagement\bin\Debug\UserManagement.pdb
+C:\Users\pupochek128\Desktop\komademo\fixed_module4\UserManagement\UserManagement\obj\Debug\UserManagement.csproj.AssemblyReference.cache
+C:\Users\pupochek128\Desktop\komademo\fixed_module4\UserManagement\UserManagement\obj\Debug\UserManagement.Auth.resources
+C:\Users\pupochek128\Desktop\komademo\fixed_module4\UserManagement\UserManagement\obj\Debug\UserManagement.ManageUser.resources
+C:\Users\pupochek128\Desktop\komademo\fixed_module4\UserManagement\UserManagement\obj\Debug\UserManagement.ManageUsers.resources
+C:\Users\pupochek128\Desktop\komademo\fixed_module4\UserManagement\UserManagement\obj\Debug\UserManagement.Properties.Resources.resources
+C:\Users\pupochek128\Desktop\komademo\fixed_module4\UserManagement\UserManagement\obj\Debug\UserManagement.csproj.GenerateResource.cache
+C:\Users\pupochek128\Desktop\komademo\fixed_module4\UserManagement\UserManagement\obj\Debug\UserManagement.csproj.CoreCompileInputs.cache
+C:\Users\pupochek128\Desktop\komademo\fixed_module4\UserManagement\UserManagement\obj\Debug\UserManagement.exe
+C:\Users\pupochek128\Desktop\komademo\fixed_module4\UserManagement\UserManagement\obj\Debug\UserManagement.pdb
